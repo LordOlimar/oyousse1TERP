@@ -14,8 +14,8 @@
         <li>Name: Oz Youssef</li>
         <li>GitHub Location: https://github.com/LordOlimar/oyousse1TERP</li>
         <li>Render Location: https://oyousse1terp.onrender.com</li>
-        <li>Clearing Database Movies: </li>
-        <li>Inserting Movies: </li>
-        <li>List Movies: </li>
+        <li>Clearing Database Movies: https://oyousse1terp.onrender.com/clearCollection</li>
+        <li>Inserting Movies: https://oyousse1terp.onrender.com/insertMovies</li>
+        <li>List Movies: https://oyousse1terp.onrender.com/listMovies</li>
     </ul>
 </body>
