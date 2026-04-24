@@ -8,14 +8,12 @@
 
 <body>
     <h1>Oz Youssef</h1>
-    <h2>https://github.com/LordOlimar/oyousse1TERP</h2>
-    <h2>https://oyousse1terp.onrender.com/</h2>
     <ul>
-        <li>Name: Oz Youssef</li>
-        <li>GitHub Location: https://github.com/LordOlimar/oyousse1TERP</li>
-        <li>Render Location: https://oyousse1terp.onrender.com</li>
-        <li>Clearing Database Movies: https://oyousse1terp.onrender.com/clearCollection</li>
-        <li>Inserting Movies: https://oyousse1terp.onrender.com/insertMovies</li>
-        <li>List Movies: https://oyousse1terp.onrender.com/listMovies</li>
+        <li><b>Name:</b> Oz Youssef</li>
+        <li><b>GitHub Location:</b> <a href=https://github.com/LordOlimar/oyousse1TERP>https://github.com/LordOlimar/oyousse1TERP</a></li>
+        <li><b>Render Location:</b> <a href=https://oyousse1terp.onrender.com>https://oyousse1terp.onrender.com</a></li>
+        <li><b>Clearing Database Movies:</b> <a href=https://oyousse1terp.onrender.com/clearCollection>https://oyousse1terp.onrender.com/clearCollection</a></li>
+        <li><b>Inserting Movies:</b> <a href=https://oyousse1terp.onrender.com/insertMovies>https://oyousse1terp.onrender.com/insertMovies</a></li>
+        <li><b>List Movies:</b> <a href=https://oyousse1terp.onrender.com/listMovies>https://oyousse1terp.onrender.com/listMovies</a></li>
     </ul>
 </body>
